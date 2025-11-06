@@ -19,6 +19,7 @@ Predict passenger survival using features like age, fare, and family size. Evalu
 - How to clean and encode categorical data
 - How to evaluate model performance beyond accuracy
 - How to interpret feature importance and diagnose weak signals
+- 📘 [View Notebook](https://colab.research.google.com/drive/15bMo-IstdumAkKRCnF_PeB0iAsMA2-yl?usp=sharing)
 
 ## 🔗 Connect with Me
 - 🌍 [josephombati.tech](https://josephombati.tech)
