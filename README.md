@@ -12,7 +12,7 @@ Predict passenger survival using features like age, fare, and family size. Evalu
 
 ## 📈 Key Insights
 - Most predictive features: **Fare**, **Age**, **FamilySize**
-- Best model accuracy: **56%** using Gradient Boosting
+- Best model accuracy: **52%** using Gradient Boosting
 - Feature importance and model comparisons used to explain performance
 
 ## 🧠 What I Learned
